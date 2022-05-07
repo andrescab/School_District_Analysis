@@ -7,7 +7,9 @@ The first district summary dataframe reflects the data of all students of the di
 In the case of school summary dataframe, it considers all the data from the module and the results that has been gotten are the same after looking the data without roundling.
 ![image_name1aa](m_5.png)
 After replacing with no scores the ninth graders math and reading scores, Thomas High School is located in the second place of top five schools in terms of overall passing percentage. This result is different from no replacing the ninth grade ,because in that case the overall passing percentage had a lower value.
+
 ![image_name1bb](m_1.png) ![image_name1b1](m_2.png) ![image_name1b2](m_3.png) ![image_name1b3](m_4.png)
+
 Doing a comparison between math and reading scores by grade, the "nan" has replaced the value of ninth grade for math and reading score. The mean value math score of ninth grade has decreased from 80.35167 to 80.12030 after taking off the scores of math for the ninth grade of Thomas High school. While, the reading score has decreased from 82.5133 to 82.42649.
 About scores by school spending, in the case of math scores, there is an increase after replacing the values of ninth grade of Thomas High School, specially when spending per student is higher. On the other hand, in the case of reading scores, there is an increase as well after replacing the values and increasing of spending per student is greater.
 After replacing the value of ninth grade of Thomas High school, it has been found that there is a bit of decreasing of overall passing percentage in Medium School Size which went from 90.62 to 90.56.
